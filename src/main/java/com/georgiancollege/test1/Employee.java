@@ -11,7 +11,7 @@ public class Employee {
     private String city;
     private String province;
     private String phoneNo;
-
+    // controller
     public Employee(int employeeId, String firstName, String lastName, String address, String city, String province, String phoneNo) {
         setEmployeeId(employeeId);
         setFirstName(firstName);
